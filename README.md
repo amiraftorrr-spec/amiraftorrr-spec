@@ -89,6 +89,9 @@
   <br/>
   <img src="https://streak-stats.demolab.com?user=amiraftorrr-spec&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=A855F7" alt="GitHub Streak" />
 </div>
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My Git Koi" />
+</p>
 
 ---
 
