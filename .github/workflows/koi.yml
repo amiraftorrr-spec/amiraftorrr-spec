@@ -22,7 +22,7 @@ jobs:
     steps:
       - uses: actions/checkout@v7
 
-      - uses: yalongwastaken/git-koi@v1
+      - uses: amiraftorrr-spec/git-koi@v1
         with:
           body: white
           output-dir: koi
